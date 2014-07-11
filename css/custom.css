@@ -1,0 +1,25 @@
+html {
+  background: url(../img/bg_toilet-nap.png) no-repeat center;
+  background-size: contain;
+}
+body {
+  background-color: transparent;
+  color: #504d4a;
+}
+.signature {
+  font-family: 'Open Sans', sans-serif;
+  font-size: .85em;
+  font-weight: 800;
+  margin: 0;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  text-transform: uppercase;
+}
+a {
+  color: #bbc15d;
+}
+a:hover {
+  color: pink;
+}
